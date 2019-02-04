@@ -1,0 +1,28 @@
+body {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.container-fluid {
+	height: 100%;
+	background-color: #EEEEEE;
+}
+
+input {
+	width: 100%;
+	height: 100%;
+}
+
+.red {
+	position: relative;
+	height: 25%;
+}
+
+.switch {
+	padding: 30px;
+}
+
+.btn_sw {
+	font-size: 42pt !important;
+}

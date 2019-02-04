@@ -1,0 +1,17 @@
+{
+  "name": "smart_home",
+  "version": "1.0.0",
+  "description": "arduino controlled home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lazar avramovic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "file-system": "^2.2.2",
+    "serialport": "^6.1.1",
+    "socket.io": "^2.1.0"
+  }
+}
